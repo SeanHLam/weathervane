@@ -1,0 +1,21 @@
+export const weatherImg = {
+    "01d":"/sun.jpeg",
+    "02d":"/sun_cloud.jpeg",
+    "03d":"/sun_cloud.jpeg",
+    "04d":"/sun_cloud.jpeg",
+    "09d":"/rain_dog.jpeg",
+    "10d":"/rain_dog.jpeg",
+    "11d":"/thunder.jpeg",
+    "13d":"/snow_day.jpeg",
+    "50d":"/mist.jpeg",
+    "01n":"/night.jpeg",
+    "02n":"/night_cloud.jpeg",
+    "03n":"/night_cloud.jpeg",
+    "04n":"/night_cloud.jpeg",
+    "09n":"/rain_dog.jpeg",
+    "10n":"/rain_dog.jpeg",
+    "11n":"/thunder.jpeg",
+    "13n":"/snow_night.jpeg",
+    "50n":"/mist.jpeg",
+
+}
